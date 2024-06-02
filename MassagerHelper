@@ -1,6 +1,6 @@
 using System.Windows.Forms;
 
-public static class Massager
+public static class MassagerHelper
 {
     public static void Show(string message, string header)
     {
